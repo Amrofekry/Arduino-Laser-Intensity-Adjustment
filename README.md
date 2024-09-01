@@ -1,5 +1,5 @@
 # Arduino Laser Intensity Adjustment Project with LCD Display
-plp
+
 This project demonstrates how to use an Arduino UNO with a KY-008 Laser Transmitter Module, an ultrasonic sensor, and an LCD display to adjust the laser intensity based on the distance from the target. Additionally, a buzzer is used to alert when the target is too close or too far.
 
 ## Components
