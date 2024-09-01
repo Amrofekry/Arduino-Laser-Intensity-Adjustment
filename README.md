@@ -26,6 +26,9 @@ This project demonstrates how to use an Arduino UNO with a KY-008 Laser Transmit
 
 ## Circuit Diagram
 
+![Picture4](https://github.com/user-attachments/assets/7a2eac8c-d8e0-47f8-a464-e7ea98bc5d42)
+
+![Picture3](https://github.com/user-attachments/assets/c9353adf-a817-42cd-9b80-172825510f87)
 
 
 ## Connections
